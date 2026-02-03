@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Akhinesh+KV;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Experiences" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2&section=header"/>
-
-</div>
+<h1 align="center">Hi 👋, I'm Akhinesh KV</h1> <h3 align="center">MERN Stack Developer | React • Node • MongoDB</h3> <p align="center"> <a href="mailto:Akhinesh2004@gmail.com">📧 Email</a> • <a href="https://github.com/akhii971">💻 GitHub</a> </p>
 
 ---
 
